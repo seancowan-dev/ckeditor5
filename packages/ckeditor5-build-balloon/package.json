@@ -70,5 +70,6 @@
   "scripts": {
     "build": "webpack --mode production",
     "preversion": "npm run build"
-  }
+  },
+  "dependencies": {}
 }
